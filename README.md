@@ -11,10 +11,6 @@ An elegant, mobile-friendly web application that helps users create and preview 
 - Dynamically generates a formatted resume section in real-time
 - No backend required — everything runs in the browser
 
-## 📸 Preview
-
-> ✨ Coming soon: Add a screenshot or demo video link here!
-
 ## 🚀 How to Use
 
 1. Clone this repository or download the ZIP.
@@ -28,9 +24,6 @@ An elegant, mobile-friendly web application that helps users create and preview 
 - **CSS3** — Styling and responsiveness  
 - **JavaScript** — DOM manipulation for dynamic resume output  
 
-## 📁 Folder Structure
-
-
 ## 💡 Ideas to Improve
 
 - Option to download resume as PDF
@@ -43,7 +36,6 @@ An elegant, mobile-friendly web application that helps users create and preview 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ## 📬 Contact
-
 **Insha Shaikh**  
 📧 findinshashaikh@gmail.com  
 🌐 [GitHub Profile](https://github.com/shaikh-insha)
